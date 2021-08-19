@@ -2,7 +2,7 @@
 |--------------------------------------------------|
 | Know about your phone number                     |
 |--------------------------------------------------|
-| Designed by   :   NAME                           |
+| Designed by   :   Athena                         |
 | Programmed in :   Python3                        |
 |--------------------------------------------------|
 | install       :   pip3 install phonenumbers      |
@@ -14,7 +14,7 @@ from phonenumbers import timezone, geocoder, carrier
 print("|--------------------------------------------------|")
 print("| Know about your phone number                     |")
 print("|--------------------------------------------------|")
-print("| Designed by   :   NAME                           |")
+print("| Designed by   :   Athena                         |")
 print("| Programmed in :   Python3                        |")
 print("|--------------------------------------------------|")
 print("| install       :   pip3 install phonenumbers      |")
